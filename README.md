@@ -1,4 +1,4 @@
-![](chefii.jpg)
+![](juratihells-kitchen-moto.jpg)
 yo
 javascript/css/html
 learning others lol
