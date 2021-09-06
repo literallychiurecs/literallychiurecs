@@ -1,7 +1,4 @@
-<div>
-<img id="xd" src="Downloads/chefii.jpg">
-</div>
-Format: ![Alt Text](url)
+
 - 👋 Hi, I’m @literallychiurecs
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
