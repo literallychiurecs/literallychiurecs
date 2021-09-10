@@ -1,6 +1,5 @@
 ![](juratihells-kitchen-moto.jpg)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=literallychiurecs&count_private=true" />
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=literallychiurecs&layout=compact" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=literallychiurecs&layout=compact" />
 
 
 <!---
