@@ -1,5 +1,5 @@
 ![](juratihells-kitchen-moto.jpg)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=literallychiurecs&show_icons=true&locale=en&layout=compact" />
 
 <!---
 literallychiurecs/literallychiurecs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
